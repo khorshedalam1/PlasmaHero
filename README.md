@@ -1,0 +1,2 @@
+# PlasmaHero
+About app: An app which helps to find Plasma donor. - User Login / Signup - Post plasma request - Search for Plasma Donors - Post as Plasma Donor. - Track Contact Histories. (this section will be a proof of contact to Donors or requester. This will help in report frauds feature) - Notification to all *available* donars when someone request for plasma - Report Frauds [ Nowadays some frauds tend to ask money and never comes to donate. In this section user can send details(necessary proofs) to Admin. ]
