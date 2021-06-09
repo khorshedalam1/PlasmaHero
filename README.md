@@ -5,7 +5,9 @@ An app which helps to find Plasma donor.
 - Post plasma request 
 - Search for Plasma Donors 
 - Post as Plasma Donor. 
-- Track Contact Histories. (this section will be a proof of contact to Donors or requester. This will help in report frauds feature) - Notification to all *available* donars when someone request for plasma - Report Frauds [ Nowadays some frauds tend to ask money and never comes to donate. In this section user can send details(necessary proofs) to Admin. ]
+- Track Contact Histories. (this section will be a proof of contact to Donors or requester. This will help in report frauds feature) 
+- Notification to all *available* donars when someone request for plasma 
+- Report Frauds [ Nowadays some frauds tend to ask money and never comes to donate. In this section user can send details(necessary proofs) to Admin. ]
 ### App UI
 ## Login
 <img src="https://user-images.githubusercontent.com/81440732/121237745-32b28f80-c8b9-11eb-8c68-d898ba31bd2f.jpg" width="300" height="600">
