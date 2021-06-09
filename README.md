@@ -11,7 +11,7 @@ An app which helps to find Plasma donor.
 ### App UI
 ## Login
 <img src="https://user-images.githubusercontent.com/81440732/121237745-32b28f80-c8b9-11eb-8c68-d898ba31bd2f.jpg" width="300" height="600">
-## Sign Up
+## Registration
 <img src="https://user-images.githubusercontent.com/81440732/121237830-4827b980-c8b9-11eb-8184-55d8b1433161.jpg" width="300" height="600">
 
 ## Deshboard
